@@ -25,3 +25,8 @@ jobs:
 
     - name: Run the tests
       run: npm test -- --coverage
+
+    - uses: codecov/codecov-action@v3
+      with:
+        fail_ci_if_error: true
+        verbose: true
