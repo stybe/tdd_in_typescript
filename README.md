@@ -20,3 +20,4 @@ If tests are there, if changing one line of code affects another part code code,
  - [x] Introduce pre-push hook.
  - [x] Introduce linter.
  - [ ] Fullfill prod conditions in pre-push hooks.
+ - [ ] Keep adding items.
