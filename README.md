@@ -13,3 +13,10 @@ Test Driven Development (TDD) is a programming practice that instructs developer
 In TDD, you only write code that is required just to make the test pass. You don't push extra code.
 It is very productive in nature when working in a team. Also, team need not to have entire context of the codebase if tests are there.
 If tests are there, if changing one line of code affects another part code code, your code will break, hence you will come to know and room for error is minimal.
+
+## TODO
+ - [x] Introduce Jest.
+ - [x] Introduce pre-commit hook.
+ - [ ] Introduce pre-push hook.
+ - [ ] Introduce linter.
+ - [ ] Fullfill prod conditions in pre-push hooks.
