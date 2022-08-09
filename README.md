@@ -1,5 +1,7 @@
 # tdd_in_typescript
 
+[![codecov](https://codecov.io/gh/stybe/tdd_in_typescript/branch/master/graph/badge.svg?token=BKXYB5S792)](https://codecov.io/gh/stybe/tdd_in_typescript)
+
 ## Introduction
 Test Driven Development (TDD) is a programming practice that instructs developers to write new code only if an automated test has failed.
 
