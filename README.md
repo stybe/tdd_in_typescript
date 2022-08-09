@@ -17,6 +17,6 @@ If tests are there, if changing one line of code affects another part code code,
 ## TODO
  - [x] Introduce Jest.
  - [x] Introduce pre-commit hook.
- - [ ] Introduce pre-push hook.
- - [ ] Introduce linter.
+ - [x] Introduce pre-push hook.
+ - [x] Introduce linter.
  - [ ] Fullfill prod conditions in pre-push hooks.
